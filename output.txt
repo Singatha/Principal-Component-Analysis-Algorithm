@@ -1,0 +1,13 @@
+Xhanti Singatha
+SNGXHA002 
+
+1. Principal Component 1 Eigenvalue: 9721.57
+   Principal Component 2 Eigenvalue: 577.266
+
+2. Principal Component 1 Eigenvector: <0.939141 0.343532>
+   Principal Component 2 Eigenvector: <-0.343532 0.0933141>
+
+3. total variance = 10298.836
+
+4. Principal Component 1 proportion: 94.39484229 % 
+   Principal Component 2 proportion: 5.605157709 %
